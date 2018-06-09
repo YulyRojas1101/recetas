@@ -1,3 +1,7 @@
+@font-face {
+	font-family: FuenteLato;
+	src: url(../fuentes/Lato-Regular.ttf);
+}
 body{
 magin: 20px;
 font-family: Lora;
